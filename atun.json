@@ -1,19 +1,19 @@
 {
-    "version": "0.6.1",
+    "version": "0.7.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AutomationD/atun/releases/download/v0.6.1/atun-windows-amd64.tar.gz",
+            "url": "https://github.com/AutomationD/atun/releases/download/v0.7.0/atun-windows-amd64.tar.gz",
             "bin": [
                 "atun.exe"
             ],
-            "hash": "3c439f0e0ce1466bc3c33cfd86f33ee7712a105d2fe9a9d98e81d2bf15eaa03e"
+            "hash": "1bd355c2f4e53f7c3e45344d7227ea7a464a4daa887fe4060afb41f4851732f5"
         },
         "arm64": {
-            "url": "https://github.com/AutomationD/atun/releases/download/v0.6.1/atun-windows-arm64.tar.gz",
+            "url": "https://github.com/AutomationD/atun/releases/download/v0.7.0/atun-windows-arm64.tar.gz",
             "bin": [
                 "atun.exe"
             ],
-            "hash": "ed78be85de574f4c053bfe58470a6e82652373653504730708a6c45447b9df57"
+            "hash": "d1e48f60d147bb6d99e91c27ded75568d20df45a0ab14768e60f33c981a538c6"
         }
     },
     "homepage": "https://github.com/AutomationD/atun",

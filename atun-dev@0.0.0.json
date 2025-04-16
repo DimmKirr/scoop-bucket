@@ -6,14 +6,14 @@
             "bin": [
                 "atun.exe"
             ],
-            "hash": "93305e2b223b1fa3a74f45fb91c1eeb196a63507130b5150d95800757d9433e6"
+            "hash": "e10af49a335b80212b795520112fca1453cf284c69e38f9d8c5188a904b24938"
         },
         "arm64": {
             "url": "https://github.com/AutomationD/atun/releases/download/v0.0.0/atun-windows-arm64.tar.gz",
             "bin": [
                 "atun.exe"
             ],
-            "hash": "2bc99d3274da63fc606505889f8ac2f858486996b971c93094d56826a6d01971"
+            "hash": "d8dcac4f7591c8be5c62e13c0be1b9838a090c0347f6c3eb0aba5e21f18feac1"
         }
     },
     "license": "Apache License 2.0",

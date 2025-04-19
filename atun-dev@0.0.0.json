@@ -2,18 +2,18 @@
     "version": "0.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AutomationD/atun/releases/download/v0.0.0/atun-glibc-windows-amd64.tar.gz",
+            "url": "https://github.com/AutomationD/atun/releases/download/v0.0.0/atun-windows-amd64.tar.gz",
             "bin": [
                 "atun.exe"
             ],
-            "hash": "06a799b10b344ec8fcba29bb77de0df8c6d80dbb674c14bcfccc77324aed99a5"
+            "hash": "909e19cdbf3ceaaafd798a6cfb4265d3197c619ce43c8eaa7a76e74e48a45e26"
         },
         "arm64": {
-            "url": "https://github.com/AutomationD/atun/releases/download/v0.0.0/atun-glibc-windows-arm64.tar.gz",
+            "url": "https://github.com/AutomationD/atun/releases/download/v0.0.0/atun-windows-arm64.tar.gz",
             "bin": [
                 "atun.exe"
             ],
-            "hash": "8049bc6689287390fddad2dfe612568eedc52899e30f90a4f87bb1efb62849bc"
+            "hash": "8a13e3916c5fec6f6e2f3a2508b1b6062f39ea840bda279e08f400d674adcf2f"
         }
     },
     "license": "Apache License 2.0",
